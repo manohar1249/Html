@@ -1,0 +1,39 @@
+.part2 {
+    background-color: burlywood;
+    transform: skewY(-8deg);
+}
+.p21{
+    font-size: 50px;
+    
+}
+.p22 {
+    text-align: justify;
+    font-size: 22px;
+    margin-left: 215px;
+    width: 25%;
+}
+.part3 {
+    background-color: hotpink;
+    transform: skewY(-7deg);
+}
+.part4  {
+    background-color: rgba(168, 231, 215, 0.582);
+    transform: skewY(-6deg);
+}
+.last{
+    background-color: rgb(134, 131, 134);
+    width: 1000px;
+    margin-left: 165px;
+    position: relative;
+}
+.l1 {
+    margin-left: 100px;
+    width: 50%;
+    font-size: 25px;
+   
+}
+.l2 {
+    position: absolute;
+    top: 40px;
+    left:150px;
+}
